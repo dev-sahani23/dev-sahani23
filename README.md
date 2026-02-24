@@ -115,7 +115,7 @@
   </a>
 </p>
 ---
-![snake gif](https://github.com/dev-sahani23/dev-sahani23/blob/output/github-snake.svg)
+![snake gif](https://github.com/dev-sahani23/dev-sahani23/output/github-snake.svg)
 
 ---
 
