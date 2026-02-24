@@ -115,7 +115,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/dev-sahani23/dev-sahani23/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/dev-sahani23/dev-sahani23/output/snake.svg" />
 
 ---
 
