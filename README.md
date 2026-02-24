@@ -3,11 +3,23 @@
 <p align="center"><i>“I build with code and think in systems shaped by Geopolitics and Economics.”</i></p>
 
 
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVicG5naWxtOWtkY2d3Znh1ZWN6ZDZyb29oaGhhanR6ZHpkZTV0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
+    </td>
+    <td width="60%">
+      <h1>✨ Who is Dev Sahani?</h1>
+      <p><i>“I build with code and think in systems shaped by Geopolitics and Economics.”</i></p>
 
 - 🛠️ Building Programs To ease the tasks ✨  
-- 🎶 Flute Melody
+- 🎶 Flute Melody  
 - 📡 Email id: <code>devrsahani23@gmail.com</code>  
 - 🌟 Motto: <strong>Think Deep. Build Smart.</strong>
+
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
