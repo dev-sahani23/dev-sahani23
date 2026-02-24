@@ -114,8 +114,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&Font=Cambria&logo=instagram&logoColor=ff4903&color=pink" alt="Instagram Badge" />
   </a>
 </p>
----
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/dev-sahani23/dev-sahani23/output/github-contribution-grid-snake.svg" />
 
 ---
 
