@@ -1,4 +1,3 @@
-
 <!-- 🧬 Cosmic Identity -->
 <h1 align="center">✨ Who is Dev Sahani?</h1>
 <p align="center"><i>“I build with code and think in systems shaped by Geopolitics and Economics.”</i></p>
