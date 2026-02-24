@@ -115,7 +115,7 @@
   </a>
 </p>
 ---
-![snake gif](https://github.com/dev-sahani23/dev-sahani23/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
