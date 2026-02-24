@@ -104,7 +104,7 @@
 <!-- 🔗 Contact Transmission -->
 <h2 align="center">📡 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-sahani-4a5602341">
+  <a href="https://www.linkedin.com/in/dev-sahani23/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&color=038891&Font=Cambria" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:devrsahani23@gmail.com">
