@@ -84,7 +84,7 @@
   🧰 Tools & Software  
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,linux&theme=dark" />
 </p>
 
 ---
