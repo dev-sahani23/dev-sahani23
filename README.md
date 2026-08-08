@@ -29,7 +29,7 @@
   🖥️ Programming Languages 
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=asm,c,python,ts,js,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=asm,c,python,ts,js,java,bash&theme=dark" />
 </p>
 
 ---
