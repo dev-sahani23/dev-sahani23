@@ -108,8 +108,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&color=038891&Font=Cambria" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:devrsahani23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=03910e&color=06d09e&Font=Cambria" alt="Gmail Badge" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=devrsahani23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-06d09e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
   <a href="https://www.instagram.com/dev_sahani2007">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&Font=Cambria&logo=instagram&logoColor=ff4903&color=pink" alt="Instagram Badge" />
   </a>
