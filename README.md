@@ -29,7 +29,7 @@
   🖥️ Programming Languages 
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,ts,js,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=asm,c,python,ts,js,bash&theme=dark" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
   ⚙️ Backend Development   
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,jwt,fastapi&theme=dark" />
 </p>
 
 ---
