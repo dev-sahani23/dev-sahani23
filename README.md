@@ -47,7 +47,7 @@
   ⚙️ Backend Development   
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postman&theme=dark" />
 </p>
 
 ---
