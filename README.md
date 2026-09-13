@@ -5,11 +5,11 @@
     </td>
     <td width="60%">
       <h1>✨ Who is Dev Sahani?</h1>
-      <p><i>“I build with code and think in systems shaped by Geopolitics and Economics.”</i></p>
+      <p><i>“I build with code and think in systems, shaped by economics, philosophy, absurdism, Stoicism, politics, and science..”</i></p>
 
 - 🛠️ Building Programs To ease the tasks ✨  
-- 🎶 Flute Melody  
-- 📡 Email id: <code>devrsahani23@gmail.com</code>  
+- 🪈 Flute Melody  
+- 📬 Email id: <code>devrsahani23@gmail.com</code>  
 - 🌟 Motto: <strong>Think Deep. Build Smart.</strong>
 
     </td>
@@ -18,7 +18,7 @@
 
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
-  🧰 Tech Stack
+  💼 Tech Stack
 </h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F65F7&width=435&lines=Full+Stack+Developer;AI+Practitioner;Geopolitics+" alt="Typing SVG" /></a>
@@ -35,7 +35,7 @@
 ---
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
-  🎨 Frontend Development 
+  🖥️ Frontend Development 
 </h2>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
@@ -81,7 +81,7 @@
 ---
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
-  🧰 Tools & Software  
+  💼 Tools & Software  
 </h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,linux&theme=dark" />
@@ -90,7 +90,7 @@
 ---
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
-  🪐 OS / Environments   
+  🌏 OS / Environments   
 </h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
@@ -102,7 +102,7 @@
 ---
 
 <!-- 🔗 Contact Transmission -->
-<h2 align="center">📡 Connect with Me</h2>
+<h2 align="center">🔗📬 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-sahani23/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&color=038891&Font=Cambria" alt="LinkedIn Badge" />
@@ -122,7 +122,7 @@
 
 ---
 
-<!-- 🌠 Cosmic Footer -->
+<!-- 🐾 Cosmic Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,4,5&section=footer&text=Push%20your%20limits%20%F0%9F%92%AB&fontSize=24&animation=fadeIn" alt="Footer Wave" />
 </div>
