@@ -26,7 +26,7 @@
 ---
 
 <h2 align="center" style="color:#00F9FF; font-family:'Orbitron', sans-serif;">
-  🖥️ Programming Languages 
+  🗨️ Programming Languages 
 </h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=asm,c,python,ts,js,java,bash&theme=dark" />
@@ -102,7 +102,7 @@
 ---
 
 <!-- 🔗 Contact Transmission -->
-<h2 align="center">🔗📬 Connect with Me</h2>
+<h2 align="center">📬 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-sahani23/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&color=038891&Font=Cambria" alt="LinkedIn Badge" />
