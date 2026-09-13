@@ -21,7 +21,7 @@
   💼 Tech Stack
 </h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F65F7&width=435&lines=Full+Stack+Developer;AI+Practitioner;Geopolitics+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?font=Playfair+Display&weight=500&lines=Full+Stack+Developer;Philosophy" alt="Typing SVG" /></a>
 
 ---
 
