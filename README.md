@@ -58,7 +58,7 @@
   🗄️ Databases  
 </h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlit,postgrese&theme=dark" />
 </p>
 
 ---
